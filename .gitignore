@@ -1,0 +1,13 @@
+# Obsidian workspace / cache (local, no compartir)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/.DS_Store
+
+# Trash de Obsidian
+.trash/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
