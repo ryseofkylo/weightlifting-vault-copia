@@ -32,6 +32,15 @@ Guardar en: `101 - Mis Planificaciones/Bloques/` — una nota por bloque de 12 s
 
 ---
 
+## Nutrición — Planes Alimentarios
+
+Guardar en: `103 - Mis Planes Alimentarios/` — un plan por revisión con la nutricionista, pareado con la antropometría de la misma fecha.
+
+→ [[Planes Alimentarios]] — índice, cronología y evolución de la prescripción
+**Plan vigente:** [[PLAN ALIMENTARIO - 2026 07 07]]
+
+---
+
 ## Qué Registrar (según sistema soviético)
 
 **Levantador anota:**

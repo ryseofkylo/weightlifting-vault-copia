@@ -43,6 +43,8 @@ tags: [MOC, recuperación]
 - [[Trastornos Alimentarios en el Deporte]] — anorexia y bulimia; hasta 30% prevalencia en deportes con peso
 - [[Esteroides Anabólicos]] — prohibidos, efectos secundarios, posición de Drechsler
 
+> 📋 **Aplicación personal:** [[Planes Alimentarios]] — mis planes nutricionales reales (Lic. Melisa Macor), donde estos principios se traducen en porciones y timing concretos.
+
 ### Restauración (métodos soviéticos — Drechsler)
 - [[Métodos de Tratamiento y Restauración]] — masaje circulatorio vs. rompe-ciclo-dolor; sauna (~200°F, posición horizontal, pies arriba al final); cámaras barométricas; timing crítico (no inmediatamente post-pesado)
 

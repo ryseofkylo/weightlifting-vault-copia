@@ -285,3 +285,4 @@ Ver: [[MOC - Enseñanza]]
 - [[Mi Perfil Técnico]]
 - [[Template - Sesión de Entrenamiento]]
 - [[Template - Bloque de Entrenamiento]]
+- [[Planes Alimentarios]] — mis planes nutricionales (Lic. Melisa Macor), pareados con antropometrías ISAK
