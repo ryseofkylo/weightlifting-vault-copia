@@ -1,10 +1,7 @@
 ---
 title: Planificaciones de Levantamiento Olímpico — Matías López
-coach: entrenador
-gimnasio: La Cueva (Guaymallén, Mendoza)
 sesiones: 281
 rango: 2023-07-19 a 2026-07-17
-fuente: export de WhatsApp con el entrenador
 tags: [levantamiento-olimpico, planificacion, entrenamiento, arranque, envion, sentadilla]
 ---
 
