@@ -37,7 +37,7 @@ sorting-spec: |
    Adaptacion
    Variables
    Ciclos
-  target-folder: Weightlifting/18 - Mi Practica
+  target-folder: Weightlifting/101 - Mis Planificaciones
   /:files
    < a-z by-metadata: orden
   /folders

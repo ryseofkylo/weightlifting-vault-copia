@@ -1,6 +1,6 @@
 ---
 title: Planificaciones de Levantamiento Olímpico — Matías López
-coach: Marcelo Gandolfo
+coach: entrenador
 gimnasio: La Cueva (Guaymallén, Mendoza)
 sesiones: 281
 rango: 2023-07-19 a 2026-07-17
@@ -10,7 +10,7 @@ tags: [levantamiento-olimpico, planificacion, entrenamiento, arranque, envion, s
 
 # Planificaciones de Entrenamiento
 
-Registro cronológico de las sesiones planificadas por el entrenador Marcelo Gandolfo. Cada sesión mantiene la notación original del coach.
+Registro cronológico de las sesiones planificadas por el entrenador. Cada sesión mantiene la notación original del coach.
 
 ## Cómo leer la notación
 

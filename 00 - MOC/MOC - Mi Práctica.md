@@ -18,7 +18,7 @@ tags: [MOC, práctica-personal]
 
 ## Sesiones
 
-Guardar en: `Mi Practica/Sesiones/` — una nota por sesión de entrenamiento
+Guardar en: `101 - Mis Planificaciones/Sesiones/` — una nota por sesión de entrenamiento
 
 **Template:** [[Template - Sesión de Entrenamiento]]
 
@@ -26,7 +26,7 @@ Guardar en: `Mi Practica/Sesiones/` — una nota por sesión de entrenamiento
 
 ## Bloques de Entrenamiento
 
-Guardar en: `Mi Practica/Bloques/` — una nota por bloque de 12 semanas
+Guardar en: `101 - Mis Planificaciones/Bloques/` — una nota por bloque de 12 semanas
 
 **Template:** [[Template - Bloque de Entrenamiento]]
 

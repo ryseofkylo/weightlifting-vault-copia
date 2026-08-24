@@ -110,7 +110,7 @@ tags: [template, práctica-personal]
 
 ```dataview
 TABLE date, bodyweight, lifts
-FROM "Mi Practica/Sesiones"
+FROM "101 - Mis Planificaciones/Sesiones"
 WHERE bloque = "{{nombre del bloque}}"
 SORT date ASC
 ```
